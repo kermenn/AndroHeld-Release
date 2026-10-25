@@ -1,7 +1,8 @@
 {
   "versionCode": 64,
   "versionName": "5.3.0",
-  "apkUrl": "https://github.com/kermenn/AndroHeld-Release/releases/download/v5.3.0/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
+  "sha256": "8b9438c1dc102357bb40f012d9379a5d8c5ac7cd3b91348b93b6d480cd1bb6dd",
   "releaseNotes": "1. Modularisasi Arsitektur: Dialog Roster, WIP Tools, QC Hose, dan Stock Check diekstrak ke komponen mandiri.\n2. Pembersihan Kode Mati: Menghapus 54 string sumber daya lama dan variabel redundan.\n3. Peningkatan Performa: UI lebih responsif, hemat memori, dan bebas penumpukan dialog inline.",
   "date": "2026-10-25"
 }
