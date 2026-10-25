@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "5.2.1",
-  "apkUrl": "https://github.com/kermenn/AndroHeld-Release/releases/download/v5.2.1/app-release.apk",
-  "releaseNotes": "1. Identitas Merek Baru: Logo Wordmark AndroHeld terintegrasi dengan celah laser optik dan tipografi industrial tegas.\n2. Icon Launcher Baru: Konsep C.2 Elegan dengan sudut viewfinder presisi berlatar Deep Obsidian.\n3. Optimasi Navigasi Instan: Tombol kembali di Stock, WIP Tools, dan QC Hose kini 100% instan tanpa jeda fade OS.\n4. Dialog Konfirmasi Keluar Modern: Tampilan dark vault dengan aksen crimson lembut dan tactile feedback.",
-  "date": "2026-10-24"
+  "versionCode": 64,
+  "versionName": "5.3.0",
+  "apkUrl": "https://github.com/kermenn/AndroHeld-Release/releases/download/v5.3.0/app-release.apk",
+  "releaseNotes": "1. Modularisasi Arsitektur: Dialog Roster, WIP Tools, QC Hose, dan Stock Check diekstrak ke komponen mandiri.\n2. Pembersihan Kode Mati: Menghapus 54 string sumber daya lama dan variabel redundan.\n3. Peningkatan Performa: UI lebih responsif, hemat memori, dan bebas penumpukan dialog inline.",
+  "date": "2026-10-25"
 }
