@@ -1,8 +1,8 @@
 {
-  "versionCode": 66,
-  "versionName": "5.3.2",
+  "versionCode": 67,
+  "versionName": "5.3.3",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "d41943b0b15a241b1a718fc11853d990f3dc2ecd693a218c6d5c45a7c6e4a911",
-  "releaseNotes": "1. Multi-Angle Equivalents: Rekomendasi persamaan coupling berdasarkan kecocokan seal & dash walau sudut berbeda, terbagi jelas antara Exact Match (Hijau) & Alternative Angle (Oranye).\n2. Standard Caterpillar OEM Terminology: Seluruh bahasa di antarmuka Ref Coupling dan Laporan PDF dikonversi ke Global English resmi OEM Caterpillar (Cut-off Factor C, Drop Height D, Overall Length B, Interchangeable Couplings, dll).\n3. XT-6 Safety Guardrail: Proteksi otomatis tekanan selang XT-6 tetap aktif mengunci series medium pressure.\n4. Offline-First Architecture: 2.422 part Caterpillar dan 195 diagram teknis WebP tersimpan lokal tanpa ketergantungan database eksternal.",
+  "sha256": "0e521f75077af08d7e60adfea20d0d1b952a37fdf498609baa58a3325c276730",
+  "releaseNotes": "1. Fix WhatsApp PDF Report Sharing: Penambahan clipData URI permissions, izin eksplisit FileProvider, dan dukungan penuh untuk WhatsApp standar serta WhatsApp Business.\n2. Package Visibility: Penambahan queries intent & package WhatsApp di AndroidManifest sesuai standar Android 11-15.\n3. Smart App Chooser Fallback: Fallback otomatis ke menu pilihan sistem Android jika peluncuran langsung WhatsApp terhalang.\n4. Stabilitas Background Activity: Penambahan FLAG_ACTIVITY_NEW_TASK untuk menjamin pembukaan dokumen stabil dari Compose.",
   "date": "2026-10-30"
 }
