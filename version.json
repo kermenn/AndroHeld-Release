@@ -1,8 +1,8 @@
 {
-  "versionCode": 68,
-  "versionName": "5.3.4",
+  "versionCode": 69,
+  "versionName": "5.3.5",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "e074646fd8b278810646cf28492c1700809feda2c17783caa6d31c248165adbd",
-  "releaseNotes": "1. Fix Share PDF WhatsApp Coupling: Menggunakan standard Intent Chooser dengan dual-layer permission grant (WhatsApp, WhatsApp Business, Email, Drive) dan deteksi dokumen PDF yang handal.\n2. Unified Diagnostic Logging: Pencatatan otomatis hingga 1.000 log riwayat di semua menu (QC Hose, Inventory Analysis, Borrowing, Roster, SAP Browser, dan Stock Check).\n3. Share Diagnostic Log: Tombol 'Share' baru di Console Drawer untuk langsung membagikan log diagnostik ke WhatsApp atau teknisi.\n4. Quick Console Drawer Toggle: Tombol konsol langsung di HomeScreen bar atas untuk membuka/menutup panel log kapan saja.\n5. Global Uncaught Exception Handler: Menangkap error fatal dan crash secara otomatis ke dalam log diagnostik.",
+  "sha256": "be133ca8e371b4b3cc868a495806526dcacb0290c188513600b9109dca455dfd",
+  "releaseNotes": "1. Relayout PDF QC Coupling: Wadah gambar diagram diperlebar penuh (527 pt) dengan aspect ratio terjaga di container putih bersih, teks dimensi ukuran tajam & jelas, serta paginasi presisi 3 item per lembar A4.\n2. Standarisasi Shift Roster (CT -> AL): Penggantian kode cuti menjadi Annual Leave (AL) yang selaras dengan singkatan shift bahasa Inggris lainnya (D, DN, N, OFF, FB), dengan migrasi aman dua arah ke Supabase.\n3. Fitur Share Roster ke WhatsApp: Bagikan jadwal roster bulanan langsung via WhatsApp dalam bentuk Dokumen PDF A4 Landscape atau Berkas Excel/Spreadsheet (.csv with UTF-8 BOM).",
   "date": "2026-10-30"
 }
