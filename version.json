@@ -1,8 +1,8 @@
 {
-  "versionCode": 69,
-  "versionName": "5.3.5",
+  "versionCode": 70,
+  "versionName": "5.3.6",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "be133ca8e371b4b3cc868a495806526dcacb0290c188513600b9109dca455dfd",
-  "releaseNotes": "1. Relayout PDF QC Coupling: Wadah gambar diagram diperlebar penuh (527 pt) dengan aspect ratio terjaga di container putih bersih, teks dimensi ukuran tajam & jelas, serta paginasi presisi 3 item per lembar A4.\n2. Standarisasi Shift Roster (CT -> AL): Penggantian kode cuti menjadi Annual Leave (AL) yang selaras dengan singkatan shift bahasa Inggris lainnya (D, DN, N, OFF, FB), dengan migrasi aman dua arah ke Supabase.\n3. Fitur Share Roster ke WhatsApp: Bagikan jadwal roster bulanan langsung via WhatsApp dalam bentuk Dokumen PDF A4 Landscape atau Berkas Excel/Spreadsheet (.csv with UTF-8 BOM).",
-  "date": "2026-10-30"
+  "sha256": "5d7cf53a0159580d643c0c537bd1625b8ec56a1447b7880e00fad701625692bd",
+  "releaseNotes": "1. Fitur Baru Report Bug via WhatsApp: Akses cepat tombol laporan bug di HomeScreen dan Global Settings untuk melaporkan kendala teknis langsung ke WhatsApp pengembang.\n2. Diagnostik Otomatis Terintegrasi: Pesan laporan bug menyertakan informasi tipe HP, versi Android, versi aplikasi, serta cuplikan 35 baris log diagnostik terakhir dari AppLogger.\n3. Proteksi Privasi Tingkat Tinggi: Nomor pengembang disamarkan aman dengan enkripsi Base64 di kode internal.\n4. Penyempurnaan Sebelumnya: Relayout PDF QC Coupling (diagram lebar 527 pt), standardisasi shift AL (Annual Leave), dan fitur Share Roster via WhatsApp (PDF & Excel).",
+  "date": "2026-10-31"
 }
