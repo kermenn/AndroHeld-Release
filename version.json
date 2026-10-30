@@ -1,8 +1,8 @@
 {
-  "versionCode": 65,
-  "versionName": "5.3.1",
+  "versionCode": 66,
+  "versionName": "5.3.2",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "2e9f5f4d89af092021c9e6a0de5c52c8e768774b1283951eb36418592e38cb78",
-  "releaseNotes": "1. Database Cat Coupling V11.2: Pembaruan penuh 2.422 part number Caterpillar resmi dari katalog edisi 11.2.\n2. Visual Diagram Teknis WebP: Integrasi 195 gambar diagram resolusi tinggi format WebP ringan (hemat ruang 81%).\n3. Pembaruan Room DB v3: Migrasi otomatis database coupling lokal di perangkat Android.\n4. UI Ref Coupling: Peningkatan kontras Cutoff C & Drop D, serta preview diagram yang lebih responsif.",
+  "sha256": "d41943b0b15a241b1a718fc11853d990f3dc2ecd693a218c6d5c45a7c6e4a911",
+  "releaseNotes": "1. Multi-Angle Equivalents: Rekomendasi persamaan coupling berdasarkan kecocokan seal & dash walau sudut berbeda, terbagi jelas antara Exact Match (Hijau) & Alternative Angle (Oranye).\n2. Standard Caterpillar OEM Terminology: Seluruh bahasa di antarmuka Ref Coupling dan Laporan PDF dikonversi ke Global English resmi OEM Caterpillar (Cut-off Factor C, Drop Height D, Overall Length B, Interchangeable Couplings, dll).\n3. XT-6 Safety Guardrail: Proteksi otomatis tekanan selang XT-6 tetap aktif mengunci series medium pressure.\n4. Offline-First Architecture: 2.422 part Caterpillar dan 195 diagram teknis WebP tersimpan lokal tanpa ketergantungan database eksternal.",
   "date": "2026-10-30"
 }
