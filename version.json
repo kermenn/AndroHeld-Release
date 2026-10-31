@@ -1,8 +1,8 @@
 {
-  "versionCode": 70,
-  "versionName": "5.3.6",
+  "versionCode": 71,
+  "versionName": "5.3.7",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "5d7cf53a0159580d643c0c537bd1625b8ec56a1447b7880e00fad701625692bd",
-  "releaseNotes": "1. Fitur Baru Report Bug via WhatsApp: Akses cepat tombol laporan bug di HomeScreen dan Global Settings untuk melaporkan kendala teknis langsung ke WhatsApp pengembang.\n2. Diagnostik Otomatis Terintegrasi: Pesan laporan bug menyertakan informasi tipe HP, versi Android, versi aplikasi, serta cuplikan 35 baris log diagnostik terakhir dari AppLogger.\n3. Proteksi Privasi Tingkat Tinggi: Nomor pengembang disamarkan aman dengan enkripsi Base64 di kode internal.\n4. Penyempurnaan Sebelumnya: Relayout PDF QC Coupling (diagram lebar 527 pt), standardisasi shift AL (Annual Leave), dan fitur Share Roster via WhatsApp (PDF & Excel).",
+  "sha256": "8578c91ef5abe9531869f8c2a4c6f60e76d47edb88d36b1dc6addbb9e3bf5852",
+  "releaseNotes": "1. Mandatory / Force Update: Aplikasi otomatis mengunci layar jika terdapat versi baru di server demi menjaga integritas data dan keamanan operasional.\n2. Roster Schedule PIN Protected Export: Tombol Share Roster via WhatsApp (PDF & Excel) dipindahkan ke menu opsi titik tiga dan diproteksi dengan otentikasi PIN Admin.\n3. Indikator Status Operasional & Jaringan Real-Time: Chip pojok kiri atas Home Screen kini mendeteksi status konektivitas aktif (OPS ACTIVE • ONLINE vs OFFLINE MODE).\n4. Antarmuka Bersih & Utilitarian: Tombol debug log & lapor bug di Home Screen dirapikan (terpusat di Global Settings), seluruh teks Global Settings diterjemahkan ke Enterprise English yang ringkas tanpa AI slop, serta transisi fade saat kembali dari Settings telah dihilangkan (instan).",
   "date": "2026-10-31"
 }
