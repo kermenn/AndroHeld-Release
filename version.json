@@ -1,8 +1,8 @@
 {
-  "versionCode": 71,
-  "versionName": "5.3.7",
+  "versionCode": 72,
+  "versionName": "5.3.8",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "8578c91ef5abe9531869f8c2a4c6f60e76d47edb88d36b1dc6addbb9e3bf5852",
-  "releaseNotes": "1. Mandatory / Force Update: Aplikasi otomatis mengunci layar jika terdapat versi baru di server demi menjaga integritas data dan keamanan operasional.\n2. Roster Schedule PIN Protected Export: Tombol Share Roster via WhatsApp (PDF & Excel) dipindahkan ke menu opsi titik tiga dan diproteksi dengan otentikasi PIN Admin.\n3. Indikator Status Operasional & Jaringan Real-Time: Chip pojok kiri atas Home Screen kini mendeteksi status konektivitas aktif (OPS ACTIVE • ONLINE vs OFFLINE MODE).\n4. Antarmuka Bersih & Utilitarian: Tombol debug log & lapor bug di Home Screen dirapikan (terpusat di Global Settings), seluruh teks Global Settings diterjemahkan ke Enterprise English yang ringkas tanpa AI slop, serta transisi fade saat kembali dari Settings telah dihilangkan (instan).",
-  "date": "2026-10-31"
+  "sha256": "879666ffba6a0e7939856dbac9ac594d39f055b56f0ac4c90768ac312d850e4f",
+  "releaseNotes": "1. Katalog Referensi Caterpillar V11.2 (PECP5030-11): Database terpadu 2.422 part number kopling lengkap dengan Smart Code pabrik, klasifikasi Permanent vs Reusable, dan pemisahan sudut tekukan (Angle Style).\n2. Spesifikasi Teknis Presisi: Menampilkan ukuran Dash Selang, Connector Dash, Thread Size, Flange Head Size, Cutoff Factor C, Drop Dimension D, serta Mating O-Ring Seal.\n3. Single & Batch Search: Mendukung pencarian instan nomor part tunggal maupun input batch banyak part number sekaligus.\n4. Ekspor Dokumen Resmi: Pembaruan kartu diagram visual A4 Canvas PDF 230 pt siap cetak dan bagikan via WhatsApp.",
+  "date": "2026-11-06"
 }
