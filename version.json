@@ -1,8 +1,8 @@
 {
-  "versionCode": 73,
-  "versionName": "5.3.9",
+  "versionCode": 74,
+  "versionName": "5.3.10",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "b7e8dd063442fcc1cbc138cd2b4bcaa3bb52a007eb4a5117d8aaa1c2a8e02215",
-  "releaseNotes": "1. Fitur Baru HIS Consist: Integrasi 4.597 resep perakitan selang Caterpillar resmi (Cut Length No-Skive & Reusable, Bulk Hose ID/Dash, Fitting Ujung 1 & 2, Sleeve Guard, dan Working Pressure).\n2. Detail Jenis Coupling di Laporan PDF: Menampilkan Kategori & Angle Style resmi (seperti ORFS Female, Flange Code 61, Cat Flange, dll.) secara tebal dan jelas pada setiap kartu laporan PDF QC Hose.\n3. Master Database Terpadu 3.048 Coupling: Menggabungkan 626 part legendaris dengan diagram WebP dan katalog modern V11.2.\n4. Integrasi Cerdas: Navigasi langsung dari komponen selang rakitan ke spesifikasi lengkap coupling di katalog.",
+  "sha256": "73ff7a175eccd9e8c0e45a8c04f35826005b599043b7e2ac9d28e33faf599621",
+  "releaseNotes": "1. Perbaikan Bug Pencarian HIS Consist: Memperbaiki skema Room SQLite database dan menambahkan proteksi auto-refresh database agar pencarian nomor part selang rakitan berjalan mulus tanpa force-close.\n2. Fitur Caterpillar HIS Consist: Integrasi 4.597 resep perakitan selang Caterpillar resmi (Cut Length No-Skive & Reusable, Bulk Hose ID/Dash, Fitting Ujung 1 & 2, Sleeve Guard, dan Working Pressure).\n3. Detail Jenis Coupling di Laporan PDF: Menampilkan Kategori & Angle Style resmi secara tebal dan jelas pada setiap kartu laporan PDF QC Hose.",
   "date": "2026-11-14"
 }
