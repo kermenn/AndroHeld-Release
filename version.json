@@ -1,8 +1,8 @@
 {
-  "versionCode": 72,
-  "versionName": "5.3.8",
+  "versionCode": 73,
+  "versionName": "5.3.9",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "879666ffba6a0e7939856dbac9ac594d39f055b56f0ac4c90768ac312d850e4f",
-  "releaseNotes": "1. Katalog Referensi Caterpillar V11.2 (PECP5030-11): Database terpadu 2.422 part number kopling lengkap dengan Smart Code pabrik, klasifikasi Permanent vs Reusable, dan pemisahan sudut tekukan (Angle Style).\n2. Spesifikasi Teknis Presisi: Menampilkan ukuran Dash Selang, Connector Dash, Thread Size, Flange Head Size, Cutoff Factor C, Drop Dimension D, serta Mating O-Ring Seal.\n3. Single & Batch Search: Mendukung pencarian instan nomor part tunggal maupun input batch banyak part number sekaligus.\n4. Ekspor Dokumen Resmi: Pembaruan kartu diagram visual A4 Canvas PDF 230 pt siap cetak dan bagikan via WhatsApp.",
-  "date": "2026-11-06"
+  "sha256": "b7e8dd063442fcc1cbc138cd2b4bcaa3bb52a007eb4a5117d8aaa1c2a8e02215",
+  "releaseNotes": "1. Fitur Baru HIS Consist: Integrasi 4.597 resep perakitan selang Caterpillar resmi (Cut Length No-Skive & Reusable, Bulk Hose ID/Dash, Fitting Ujung 1 & 2, Sleeve Guard, dan Working Pressure).\n2. Detail Jenis Coupling di Laporan PDF: Menampilkan Kategori & Angle Style resmi (seperti ORFS Female, Flange Code 61, Cat Flange, dll.) secara tebal dan jelas pada setiap kartu laporan PDF QC Hose.\n3. Master Database Terpadu 3.048 Coupling: Menggabungkan 626 part legendaris dengan diagram WebP dan katalog modern V11.2.\n4. Integrasi Cerdas: Navigasi langsung dari komponen selang rakitan ke spesifikasi lengkap coupling di katalog.",
+  "date": "2026-11-14"
 }
