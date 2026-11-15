@@ -1,8 +1,8 @@
 {
-  "versionCode": 80,
-  "versionName": "5.4.5",
+  "versionCode": 81,
+  "versionName": "5.4.6",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "da849d14d3bf4c3e5aa7922e0d8104d5f13f09b395228db09c2e241601f73274",
-  "releaseNotes": "1. Perbaikan Kritis Sinkronisasi Room Database v6: Memperbaiki internal PRAGMA user_version dan identity_hash master SQLite onesafesource.db ke v6 sehingga 4.258 suku cadang dan 2.475 pengayaan data Caterpillar SIS 2.0 terbaca 100% tanpa destructive reset.\n2. Otomatisasi Recovery Cache: Mekanisme auto-purge membersihkan database kosong sebelumnya secara otomatis dan memuat ulang database master penuh saat aplikasi dibuka.\n3. Spesifikasi Enterprise English & Batch Weight Estimator: Kalkulator estimasi berat kg/lbs, chip ukuran drive kunci pas/ring, grade material, dan dialog spesifikasi teknis lengkap.",
+  "sha256": "dace13485a7e3501e73e578127b704f81717d5fc9ce9779d11f8c550a5623545",
+  "releaseNotes": "1. Single Source of Truth Caterpillar SIS 2.0 (2.475 Hardware): Migrasi menyeluruh spesifikasi ulir (thread size & pitch), panjang baut presisi (mm & pecahan inch), tipe kepala resmi (Track Bolt, Hex Head, Socket Head), dan lapisan pelindung resmi langsung dari database SIS 2.0 Similar Parts.\n2. Verifikasi Integritas Database Room v6: Sinkronisasi PRAGMA user_version dan identity_hash master SQLite onesafesource.db (4.258 suku cadang) terverifikasi 100% aktif dan berjalan optimal di perangkat.\n3. Spesifikasi Enterprise English & Batch Weight Estimator: Kalkulator estimasi berat angkut/picking suku cadang secara instan (kg & lbs) serta chip ukuran kunci pas dan grade kekuatan material.",
   "date": "2026-11-15"
 }
