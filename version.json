@@ -1,8 +1,8 @@
 {
-  "versionCode": 75,
-  "versionName": "5.4.0",
+  "versionCode": 76,
+  "versionName": "5.4.1",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "164d5ed7d23650f3d00acd80490142989ca0ff034e778a8081abb0739689984d",
-  "releaseNotes": "1. Modul Part Reference Terpadu: Penambahan menu utama Part Reference di dashboard dengan tema Caterpillar Gold (3 Tab: One Safe Source, Ref Coupling, dan HIS Consist).\n2. Integrasi One Safe Source: Database offline 3.998 suku cadang Caterpillar (O-Ring, Bolt, Nut, Washer, Screw/Stud) lengkap dengan tabel spesifikasi teknis, mating hardware (rekomendasi mur & ring), dan pencarian part alternatif (equivalents).\n3. Relokasi & Perapihan QC Hose: Memindahkan katalog Ref Coupling dan Caterpillar HIS Consist ke dalam Part Reference agar menu QC Hose fokus pada inspeksi crimping dan riwayat database.",
+  "sha256": "1532a1c43da0d92f1d30d0548a40437502fd14e018527d219f4364dbd745f94d",
+  "releaseNotes": "1. Perbaikan Pencarian One Safe Source: Mengatasi kendala pencarian part number (seperti 2J3506 / 2J-3506 Nut Hex Full) dengan integrasi Room SQLite pre-packaged database v2, primary key terdefinisi, indexing komprehensif, serta toleransi pencarian multi-format (raw query dan format tanpa tanda hubung).\n2. Peningkatan UI/UX Pro Max Ref Coupling: Antarmuka Dark Slate Industrial, segmented control pill ramping untuk Single vs Batch Lookup, tipografi Monospace pada nomor part, dan highlight status visual.\n3. Peningkatan UI/UX Pro Max HIS Consist: Card spesifikasi Cut Length & Bulk Hose yang terstruktur, visualisasi thumbnail diagram coupling terpadu, dan navigasi langsung ke detail fitting tanpa terminologi slop.",
   "date": "2026-11-15"
 }
