@@ -1,8 +1,8 @@
 {
-  "versionCode": 76,
-  "versionName": "5.4.1",
+  "versionCode": 77,
+  "versionName": "5.4.2",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "1532a1c43da0d92f1d30d0548a40437502fd14e018527d219f4364dbd745f94d",
-  "releaseNotes": "1. Perbaikan Pencarian One Safe Source: Mengatasi kendala pencarian part number (seperti 2J3506 / 2J-3506 Nut Hex Full) dengan integrasi Room SQLite pre-packaged database v2, primary key terdefinisi, indexing komprehensif, serta toleransi pencarian multi-format (raw query dan format tanpa tanda hubung).\n2. Peningkatan UI/UX Pro Max Ref Coupling: Antarmuka Dark Slate Industrial, segmented control pill ramping untuk Single vs Batch Lookup, tipografi Monospace pada nomor part, dan highlight status visual.\n3. Peningkatan UI/UX Pro Max HIS Consist: Card spesifikasi Cut Length & Bulk Hose yang terstruktur, visualisasi thumbnail diagram coupling terpadu, dan navigasi langsung ke detail fitting tanpa terminologi slop.",
+  "sha256": "d7da31e10fe0e01f3893baf59d16baa4fc1beb150be794e5d4a6a25146fb2596",
+  "releaseNotes": "1. Integrasi Lengkap Track Hardware (Undercarriage): Penambahan 40 part number Track Nuts (termasuk 9W-3361 M20x1.50 untuk Excavator seri 320/325/330 & Dozer D6) dan Wing Nuts, serta 60 part number Track Bolts dari halaman 493, 494, 503, dan 504 katalog resmi One Safe Source.\n2. Ekstraksi Menyeluruh Baut Tanam (Studs) & Sekrup: Penambahan 113 suku cadang Machine Screws, Set Screws, dan Taper Lock Studs dari halaman 509–516 sehingga database kini genap berisi 4.211 suku cadang terlengkap.\n3. Skema Room Database v3: Migrasi otomatis database internal ke v3 dengan auto-purge recovery untuk memastikan seluruh suku cadang baru langsung muncul di pencarian Part Reference.",
   "date": "2026-11-15"
 }
