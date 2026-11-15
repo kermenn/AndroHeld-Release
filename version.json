@@ -1,8 +1,8 @@
 {
-  "versionCode": 81,
-  "versionName": "5.4.6",
+  "versionCode": 82,
+  "versionName": "5.4.7",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "dace13485a7e3501e73e578127b704f81717d5fc9ce9779d11f8c550a5623545",
-  "releaseNotes": "1. Single Source of Truth Caterpillar SIS 2.0 (2.475 Hardware): Migrasi menyeluruh spesifikasi ulir (thread size & pitch), panjang baut presisi (mm & pecahan inch), tipe kepala resmi (Track Bolt, Hex Head, Socket Head), dan lapisan pelindung resmi langsung dari database SIS 2.0 Similar Parts.\n2. Verifikasi Integritas Database Room v6: Sinkronisasi PRAGMA user_version dan identity_hash master SQLite onesafesource.db (4.258 suku cadang) terverifikasi 100% aktif dan berjalan optimal di perangkat.\n3. Spesifikasi Enterprise English & Batch Weight Estimator: Kalkulator estimasi berat angkut/picking suku cadang secara instan (kg & lbs) serta chip ukuran kunci pas dan grade kekuatan material.",
+  "sha256": "839b11bbc8a3a56db0aceeb73b07279768cfce0d56749357787a5b900034cdc4",
+  "releaseNotes": "1. Pembaruan Menyeluruh Caterpillar SIS 2.0 (Master Database & Android Room v7): Migrasi 100% data ukuran ulir (thread size & pitch), panjang presisi (length mm & inch), tipe kepala resmi (Track Bolt, Hex Head, Socket Head, Pan Head), dan lapisan pelindung resmi langsung dari database SIS 2.0 Similar Parts.\n2. Mekanisme Force Asset Refresh: Memperbaiki sistem internal Room agar otomatis menyalin master database terbaru ke memori ponsel setiap kali versi aplikasi diperbarui, mencegah ponsel tertahan di database lama.\n3. Sinkronisasi Database Master PC (hardware_cat.db): Tabel baut, mur, ring, dan sekrup pada master PC telah diperbarui sepenuhnya beserta ekspor Excel terbaru Hardware_SIS2_Latest_Export.xlsx (55 kolom).\n4. Batch Weight Estimator & Enterprise English UI: Kalkulator estimasi berat angkut/picking suku cadang secara instan (kg & lbs) serta chip ukuran kunci pas dan grade kekuatan material.",
   "date": "2026-11-15"
 }
