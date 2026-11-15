@@ -1,8 +1,8 @@
 {
-  "versionCode": 77,
-  "versionName": "5.4.2",
+  "versionCode": 78,
+  "versionName": "5.4.3",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "d7da31e10fe0e01f3893baf59d16baa4fc1beb150be794e5d4a6a25146fb2596",
-  "releaseNotes": "1. Integrasi Lengkap Track Hardware (Undercarriage): Penambahan 40 part number Track Nuts (termasuk 9W-3361 M20x1.50 untuk Excavator seri 320/325/330 & Dozer D6) dan Wing Nuts, serta 60 part number Track Bolts dari halaman 493, 494, 503, dan 504 katalog resmi One Safe Source.\n2. Ekstraksi Menyeluruh Baut Tanam (Studs) & Sekrup: Penambahan 113 suku cadang Machine Screws, Set Screws, dan Taper Lock Studs dari halaman 509–516 sehingga database kini genap berisi 4.211 suku cadang terlengkap.\n3. Skema Room Database v3: Migrasi otomatis database internal ke v3 dengan auto-purge recovery untuk memastikan seluruh suku cadang baru langsung muncul di pencarian Part Reference.",
+  "sha256": "6300eeefb3ac74aecab1953d0ee4356cb1d0248400c7f5cce7d8dd382e6dad0d",
+  "releaseNotes": "1. Integrasi Menyeluruh Forcing Bolts & Track Bolts: Penambahan 7T-1000 (1 1/8-12 UNF untuk D10T/R/N) beserta 18 suku cadang Forcing Bolts dan Track Bolts per Model Mesin (102-8072, 3A-9605, 5P-3868, 6T-2638, 2M-5657, 3T-6308, dll) dari Halaman 492.\n2. Integrasi Split Master Link Bolts & Cutting Edge Bolts: Penambahan 24 suku cadang Split Master Link Bolts (Halaman 495) dan 38 Cutting Edge Bolts untuk pisau bucket/blade (Halaman 496) beserta mur dan ring terkait.\n3. Skema Room Database v4 (4.258 Suku Cadang): Pembaruan master catalog dan migrasi otomatis internal database ke v4 dengan auto-purge recovery sehingga 100% suku cadang dari Halaman 470–516 kini terlindungi dan dapat dicari secara instan.",
   "date": "2026-11-15"
 }
