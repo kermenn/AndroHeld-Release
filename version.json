@@ -1,8 +1,8 @@
 {
-  "versionCode": 78,
-  "versionName": "5.4.3",
+  "versionCode": 79,
+  "versionName": "5.4.4",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "6300eeefb3ac74aecab1953d0ee4356cb1d0248400c7f5cce7d8dd382e6dad0d",
-  "releaseNotes": "1. Integrasi Menyeluruh Forcing Bolts & Track Bolts: Penambahan 7T-1000 (1 1/8-12 UNF untuk D10T/R/N) beserta 18 suku cadang Forcing Bolts dan Track Bolts per Model Mesin (102-8072, 3A-9605, 5P-3868, 6T-2638, 2M-5657, 3T-6308, dll) dari Halaman 492.\n2. Integrasi Split Master Link Bolts & Cutting Edge Bolts: Penambahan 24 suku cadang Split Master Link Bolts (Halaman 495) dan 38 Cutting Edge Bolts untuk pisau bucket/blade (Halaman 496) beserta mur dan ring terkait.\n3. Skema Room Database v4 (4.258 Suku Cadang): Pembaruan master catalog dan migrasi otomatis internal database ke v4 dengan auto-purge recovery sehingga 100% suku cadang dari Halaman 470–516 kini terlindungi dan dapat dicari secara instan.",
+  "sha256": "9d2ef2c8af70376b1ad0d4c74f1cf7a17501186985d8f0318c178adb79c53347",
+  "releaseNotes": "1. Pengayaan Spesifikasi Caterpillar SIS 2.0 (2.475 Hardware): Integrasi penuh data teknis resmi SIS 2.0 (Drive / Wrench Tool Size mm, Grade/Strength Class 170 KSI/10.9/8, Base Material, Unit Weight kg & lbs, J-Thread fatigue resistant, Shank & Head Diameter mm).\n2. Batch Weight Estimator Interaktif: Kalkulator estimasi berat angkut/picking suku cadang secara instan untuk kebutuhan warehouse, logistik, rigging crane, dan teknisi lapangan (konversi otomatis kg & lbs).\n3. Rombak Tampilan UI Spesifikasi Enterprise English: Seluruh terminologi teknis, kartu katalog, dan dialog modal spesifikasi kini menggunakan standar industri bahasa Inggris (anti-AI slop) dengan tata letak dark slate yang terstruktur dan responsif.\n4. Skema Room Database v5: Peningkatan versi master catalog lokal onesafesource.db ke versi 5 dengan pembaruan cache otomatis tanpa perlu clear data manual.",
   "date": "2026-11-15"
 }
