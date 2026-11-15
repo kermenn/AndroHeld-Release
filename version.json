@@ -1,8 +1,8 @@
 {
-  "versionCode": 74,
-  "versionName": "5.3.10",
+  "versionCode": 75,
+  "versionName": "5.4.0",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "73ff7a175eccd9e8c0e45a8c04f35826005b599043b7e2ac9d28e33faf599621",
-  "releaseNotes": "1. Perbaikan Bug Pencarian HIS Consist: Memperbaiki skema Room SQLite database dan menambahkan proteksi auto-refresh database agar pencarian nomor part selang rakitan berjalan mulus tanpa force-close.\n2. Fitur Caterpillar HIS Consist: Integrasi 4.597 resep perakitan selang Caterpillar resmi (Cut Length No-Skive & Reusable, Bulk Hose ID/Dash, Fitting Ujung 1 & 2, Sleeve Guard, dan Working Pressure).\n3. Detail Jenis Coupling di Laporan PDF: Menampilkan Kategori & Angle Style resmi secara tebal dan jelas pada setiap kartu laporan PDF QC Hose.",
-  "date": "2026-11-14"
+  "sha256": "164d5ed7d23650f3d00acd80490142989ca0ff034e778a8081abb0739689984d",
+  "releaseNotes": "1. Modul Part Reference Terpadu: Penambahan menu utama Part Reference di dashboard dengan tema Caterpillar Gold (3 Tab: One Safe Source, Ref Coupling, dan HIS Consist).\n2. Integrasi One Safe Source: Database offline 3.998 suku cadang Caterpillar (O-Ring, Bolt, Nut, Washer, Screw/Stud) lengkap dengan tabel spesifikasi teknis, mating hardware (rekomendasi mur & ring), dan pencarian part alternatif (equivalents).\n3. Relokasi & Perapihan QC Hose: Memindahkan katalog Ref Coupling dan Caterpillar HIS Consist ke dalam Part Reference agar menu QC Hose fokus pada inspeksi crimping dan riwayat database.",
+  "date": "2026-11-15"
 }
