@@ -1,8 +1,8 @@
 {
-  "versionCode": 83,
-  "versionName": "5.4.8",
+  "versionCode": 84,
+  "versionName": "5.5.0",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "cfe074d8bb638de789e832d4c6067cb960d41fc3124cb9b856ff2f309f0213c5",
-  "releaseNotes": "1. Perbaikan Fitur Persamaan Coupling (Interchangeable Part Lookup): Mengaktifkan kembali pencarian otomatis part persamaan coupling resmi Caterpillar pada Menu Part Reference (Ref Coupling).\n2. Peningkatan Toleransi Ukuran Drat/Head: Normalisasi format ukuran drat dan flens (misal: 1 7/16-12 vs 1-7/16-12) sehingga fitting tipe Permanent Crimp (XN) dan Reusable (IN / IN(R)) dapat saling terdeteksi sebagai part persamaan yang valid.\n3. Perluasan Filter Seri Caterpillar: Menambahkan varian seri resmi Caterpillar seperti IN(R) ke dalam guardrail keselamatan tekanan tinggi (XT-6).",
-  "date": "2026-11-16"
+  "sha256": "94294e75c709381d71b58dd4b52bbc2000c15b3803688751f9bb42eebcbe1caf",
+  "releaseNotes": "1. Mobile Device Management (MDM) & Remote Lock: Integrasi pengawasan perangkat terdaftar dan kendali saklar penguncian jarak jauh dari KermenX Desktop Suite.\n2. Onboarding EULA & Verifikasi Email Microsoft 365: Pendaftaran resmi perangkat menggunakan validasi akun M365 (@trakindo.co.id) via kode OTP 6-digit otomatis ke Outlook.\n3. Proteksi Anti-Clock Tampering & Graceful Expiration: Sistem deteksi otomatis manipulasi jam perangkat serta layar penguncian formal saat lisensi 30 hari berakhir.\n4. Optimasi Kompilasi & Heartbeat Berkala: Peningkatan performa aplikasi dan detak pemantauan status perangkat secara berkala ke server.",
+  "date": "2026-11-17"
 }
