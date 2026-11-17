@@ -1,8 +1,8 @@
 {
-  "versionCode": 84,
-  "versionName": "5.5.0",
+  "versionCode": 85,
+  "versionName": "5.5.1",
   "apkUrl": "https://raw.githubusercontent.com/kermenn/AndroHeld-Release/main/app-release.apk",
-  "sha256": "94294e75c709381d71b58dd4b52bbc2000c15b3803688751f9bb42eebcbe1caf",
-  "releaseNotes": "1. Mobile Device Management (MDM) & Remote Lock: Integrasi pengawasan perangkat terdaftar dan kendali saklar penguncian jarak jauh dari KermenX Desktop Suite.\n2. Onboarding EULA & Verifikasi Email Microsoft 365: Pendaftaran resmi perangkat menggunakan validasi akun M365 (@trakindo.co.id) via kode OTP 6-digit otomatis ke Outlook.\n3. Proteksi Anti-Clock Tampering & Graceful Expiration: Sistem deteksi otomatis manipulasi jam perangkat serta layar penguncian formal saat lisensi 30 hari berakhir.\n4. Optimasi Kompilasi & Heartbeat Berkala: Peningkatan performa aplikasi dan detak pemantauan status perangkat secara berkala ke server.",
+  "sha256": "7190ef1526df24f6260c08e4e58a5244462aa092659db28c8e0f218d3b65db6a",
+  "releaseNotes": "1. Integrasi Microsoft Power Automate OTP: Pengiriman kode verifikasi 6-digit aktivasi akun M365 (@trakindo.co.id) via flow resmi Power Automate tanpa batasan rate limit.\n2. Validasi Kode OTP Mandiri: Pengecekan kode verifikasi secara cepat dengan batas kedaluwarsa 10 menit.\n3. Mobile Device Management (MDM) & Remote Lock: Pengawasan inventaris perangkat aktif dan kendali saklar penguncian jarak jauh dari KermenX Desktop Suite.\n4. Proteksi Anti-Clock Tampering & Graceful Expiration: Sistem deteksi otomatis manipulasi jam perangkat serta penguncian formal ramah antivirus saat masa lisensi berakhir.",
   "date": "2026-11-17"
 }
